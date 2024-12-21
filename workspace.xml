@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d8ab6a2-8a2b-4ff6-891b-5f9649b9e82d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Pre-Doctor-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instance/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/Data/Testing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/Data/Training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/Data/dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/MasterData/Symptom_severity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/MasterData/symptom_Description.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/MasterData/symptom_precaution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/dummy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/open_in_new.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/send.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/upgrade.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/static/img/wb_sunny.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/templates/upgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/upgrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lgIBsYU3iX8Z9p1phD0j2wLHmw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__init__.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dhara/OneDrive/Desktop/AgleCare-main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pre-Doctor-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d8ab6a2-8a2b-4ff6-891b-5f9649b9e82d" name="Changes" comment="" />
+      <created>1725595162617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725595162617</updated>
+      <workItem from="1734362555546" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AgleCare_main$main.coverage" NAME="main Coverage Results" MODIFIED="1734362721080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
